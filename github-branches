@@ -1,0 +1,3 @@
+git branch -vv 
+  bug-fix-typo 28cb5c9 Fix typo and update author in compound_interest.py
+* main         4d2496f [origin/main] Add pull request verification
