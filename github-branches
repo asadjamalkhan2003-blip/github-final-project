@@ -1,3 +1,4 @@
-git branch -vv 
-  bug-fix-typo 28cb5c9 Fix typo and update author in compound_interest.py
-* main         4795649 [origin/main] Add GitHub branches status
+git branch -vv
+  bug-fix-revert b3f597f Fix typo in README.md
+  bug-fix-typo   b3f597f Fix typo in README.md
+* main           b3f597f [origin/main: ahead 2] Fix typo in README.md
