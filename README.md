@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A Bash-based calculator that calculates simple interest based on the principal amount, annual rate of interest, and time period provided by the user.
+A Bash-based calculator that calculates simple interest based on the principle amount, annual rate of interest, and time period provided by the user.
 
 ## Inputs
 
